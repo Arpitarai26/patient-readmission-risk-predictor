@@ -30,3 +30,5 @@ mlruns/
 # OS
 .DS_Store
 Thumbs.db
+# Dataset
+data/*.csv
