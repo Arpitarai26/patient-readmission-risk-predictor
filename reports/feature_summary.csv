@@ -1,0 +1,15 @@
+feature,dtype
+total_visits,int64
+total_meds_ratio,float64
+prior_visits_flag,int64
+high_glucose_flag,int64
+polypharmacy,int64
+meds_per_day,float64
+long_stay_flag,int64
+chronic_patient_flag,int64
+frequent_visitor_flag,int64
+utilization_score,int64
+clinical_complexity_score,int64
+stay_medication_interaction,int64
+diagnosis_medication_interaction,int64
+inpatient_emergency_interaction,int64
